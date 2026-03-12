@@ -1,0 +1,5 @@
+print("List =",end=" ")
+list=["Mady",45,True,{78,}]
+print(list)
+list.remove(45)
+print("New List =",list)
