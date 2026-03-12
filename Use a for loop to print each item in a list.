@@ -1,0 +1,6 @@
+print("List =",end=" ")
+list=["Yay!",23,["Computer"],{99,True}]
+print(list)
+print("Items =",end=" ")
+for i in range(0,len(list)):
+    print(list[i])
