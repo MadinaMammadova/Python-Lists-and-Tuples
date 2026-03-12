@@ -1,3 +1,4 @@
 print("List =",end=" ")
-list=[“Mady”,1,True]
-print(type(list))
+list=["Mady",1,True]
+print(list)
+print("Type =",type(list))
