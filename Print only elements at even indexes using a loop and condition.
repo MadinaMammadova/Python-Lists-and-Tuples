@@ -1,0 +1,7 @@
+print("List =",end=" ")
+list=["Huh?",66,["Sun"],{"=",},True]
+print(list)
+print("Even Index Elements =",end=" ")
+for i in range(0,len(list)):
+    if i%2==0:
+        print(list[i])
