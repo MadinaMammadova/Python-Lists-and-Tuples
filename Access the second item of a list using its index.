@@ -1,0 +1,5 @@
+print("List =",end=" ")
+list=["Mady",1,True]
+print(list)
+secondelement=list[1]
+print("Second Element =",secondelement)
