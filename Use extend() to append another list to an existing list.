@@ -1,0 +1,8 @@
+print("List =",end=" ")
+list=["Mady",1,True]
+print(list)
+print("Second List =",end=" ")
+list1=["!",25,False,{"Thank you",}]
+print(list1)
+list.extend(list1)
+print("New List =",list)
