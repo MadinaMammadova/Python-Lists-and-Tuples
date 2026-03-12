@@ -1,0 +1,10 @@
+print("List =",end=" ")
+list=["Mady",1,True]
+print(list)
+print("Second List =",end=" ")
+list1=["Mady",1,True]
+print(list1)
+if list==list1:
+     print("Lists are the same")
+else:
+     print("Lists are not the same")
