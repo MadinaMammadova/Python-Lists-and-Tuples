@@ -1,0 +1,4 @@
+print("List =",end=" ")
+list=["Mady",1,True,21,["Hi",False]]
+print(list)
+print("Items from 2 to 4 =",list[2:4])
