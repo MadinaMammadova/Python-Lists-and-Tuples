@@ -1,4 +1,4 @@
-print("List =",end=" ")
+print("First List =",end=" ")
 list=["Mady",1,True]
 print(list)
 print("Second List =",end=" ")
