@@ -1,0 +1,5 @@
+print("List =",end=" ")
+list=["Yay!",23,["Computer"],{99,True}]
+print(list)
+list.pop(1)
+print("New List =",list)
